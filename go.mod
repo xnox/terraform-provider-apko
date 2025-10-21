@@ -172,3 +172,5 @@ require (
 	k8s.io/utils v0.0.0-20250820121507-0af2bda4dd1d // indirect
 	sigs.k8s.io/release-utils v0.12.2 // indirect
 )
+
+replace chainguard.dev/apko v0.30.17 => github.com/xnox/apko v0.0.0-20251021213828-adc4a1ffa0f8
